@@ -1,0 +1,20 @@
+{
+  "name": "elparadisogonzalo-website",
+  "version": "1.0.0",
+  "description": "elparadisogonzalo-site",
+  "homepage": "https://github.com/azehagowa-creator/elparadisogonzalo-website#readme",
+  "bugs": {
+    "url": "https://github.com/azehagowa-creator/elparadisogonzalo-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azehagowa-creator/elparadisogonzalo-website.git"
+  },
+  "license": "Apache-2.0",
+  "author": "elparadiso",
+  "type": "express",
+  "main": "release.js",
+  "scripts": {
+    "test": "npm run"
+  }
+}
